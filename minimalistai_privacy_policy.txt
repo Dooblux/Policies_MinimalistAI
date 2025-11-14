@@ -1,0 +1,67 @@
+Minimalist AI – Privacy Policy
+
+Last updated: 13 November 2025
+
+Minimalist AI (“the App”) is developed by the owner of this repository
+(“we”, “us”, “our”). This policy explains how the App handles data and
+device permissions.
+
+1.  Information the App Processes When a user interacts with the App,
+    any text, prompts, or other content entered into the App may be
+    transmitted to OpenAI’s API for processing as part of the App’s
+    functionality.
+
+Examples of data that may be sent to OpenAI: - User-entered text -
+Prompts - API instructions - Any content the user explicitly submits
+
+The App does not automatically collect or transmit data without the user
+initiating the action.
+
+2.  Purpose of Sending Data The App sends user-provided content to
+    OpenAI solely to:
+
+-   Generate responses
+-   Perform actions based on user prompts
+-   Provide the app’s core AI functionality
+
+No other third parties receive your data.
+
+3.  No Data Storage by the App The App does not:
+
+-   Store data on external servers
+-   Maintain personal profiles
+-   Create accounts
+-   Save content beyond temporary processing in the OpenAI API requests
+
+Data is only sent to OpenAI when required to perform the requested
+operation.
+
+OpenAI processes data according to its own privacy policy:
+https://openai.com/policies/privacy-policy
+
+4.  Camera Permission If the App uses the camera (e.g., for scanning or
+    capturing content), the permission is used solely for local image
+    capture.
+
+Images are never stored or uploaded unless the user explicitly submits
+them to the app’s AI features. If an image is sent to OpenAI for
+analysis, this is done only after the user initiates the action.
+
+5.  No Advertising, Analytics, or Tracking The App does not use:
+
+-   Ads
+-   Analytics
+-   Background tracking
+-   Marketing tools
+-   Behavioral profiling
+
+No data is shared with advertisers or unrelated third parties.
+
+6.  Children’s Privacy The App is not designed to collect personal
+    information from children.
+
+7.  Data Security Data is transmitted securely using HTTPS. No data is
+    stored by the App itself.
+
+8.  Changes to This Policy If functionality changes, this policy will be
+    updated.
