@@ -65,3 +65,13 @@ No data is shared with advertisers or unrelated third parties.
 
 8.  Changes to This Policy If functionality changes, this policy will be
     updated.
+
+
+
+Service Availability Disclaimer:
+
+This app provides an image- and text-based item evaluation feature that relies on external AI services (currently OpenAI). Users pay a one-time purchase price for access to the app, but the continued availability of the AI-powered functionality depends on third-party API costs and service conditions.
+
+API usage can become significantly more expensive over time. To prevent unsustainable operating costs, the AI-related functionality may be limited, suspended, or discontinued at any moment. If this occurs, the core app will remain accessible, but features that depend on external API calls—such as submitting photos or descriptions for AI evaluation—will no longer function.
+
+No refunds or ongoing service guarantees are provided for the AI component. By using the app, you acknowledge that the AI-powered features are dependent on third-party services outside the developer’s control and may be changed or removed without notice.
